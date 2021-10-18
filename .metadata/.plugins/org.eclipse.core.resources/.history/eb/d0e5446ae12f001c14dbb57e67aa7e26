@@ -1,0 +1,7 @@
+package com.sist.exam09;
+
+public class RectTest {
+	public static void main(String[] args) {
+		Rect r1 = new Rect(1, 20)
+	}
+}

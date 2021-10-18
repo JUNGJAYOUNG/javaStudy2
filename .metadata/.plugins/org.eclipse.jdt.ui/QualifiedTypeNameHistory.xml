@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.jcp.xml.dsig.internal.SignerOutputStream"/>
+    <fullyQualifiedTypeName name="GraduateStudent"/>
+    <fullyQualifiedTypeName name="Student"/>
+    <fullyQualifiedTypeName name="com.sist.exam02.Student"/>
+    <fullyQualifiedTypeName name="com.sist.exam01.Human"/>
+    <fullyQualifiedTypeName name="com.sist.exam03.Ellipse"/>
+    <fullyQualifiedTypeName name="com.sist.exam03.ThreeDimShape"/>
+    <fullyQualifiedTypeName name="com.sist.exam04.Product"/>
+    <fullyQualifiedTypeName name="com.sist.exam05.ScienceFiction"/>
+    <fullyQualifiedTypeName name="com.sist.exam09.Rect"/>
+    <fullyQualifiedTypeName name="com.sist.exam09.ColorRect"/>
+</qualifiedTypeNameHistroy>

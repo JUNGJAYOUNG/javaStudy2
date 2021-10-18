@@ -1,0 +1,11 @@
+package com.sist.exam07;
+
+class Person{
+	public String name="";
+}
+
+
+
+public class FinalTest {
+
+}

@@ -1,0 +1,9 @@
+package com.sist.exam07;
+
+class Person{
+	public String name="ȫ�浿";
+}
+
+public class FinalTest {
+
+}

@@ -1,0 +1,11 @@
+package com.sist.exam05;
+
+public class Poet extends Book {
+
+	@Override
+	public int getLateFees(int days) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

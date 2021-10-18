@@ -1,0 +1,23 @@
+package com.sist.lab02;
+
+public class CarTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Car c = new Car();
+		c.speedUp(20);
+		c.speedDown(10);
+		
+		Movable m = new Car();
+		m.printSpeed();
+		//m.speedUp();
+		//m.TurnLeft();
+		Car c = m;
+		Car c = (Car)m;
+		Car c = new Car();
+		Movable m = c;
+		Movable m = (Movable)c;
+		
+	}
+
+}

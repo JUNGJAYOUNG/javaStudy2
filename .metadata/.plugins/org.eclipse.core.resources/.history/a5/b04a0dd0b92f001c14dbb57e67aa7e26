@@ -1,0 +1,15 @@
+package com.sist.exam03;
+
+public class Rectangle extends TwoDimShape {
+	private double width;
+	private double height;
+	
+	
+	
+	@Override
+	public double geatArea() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

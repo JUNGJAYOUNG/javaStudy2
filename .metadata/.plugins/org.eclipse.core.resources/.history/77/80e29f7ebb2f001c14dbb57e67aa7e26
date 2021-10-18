@@ -1,0 +1,12 @@
+package com.sist.exam03;
+
+public class Shpere extends ThreeDimShape {
+	private double radius;
+	
+	@Override
+	public double getVolume() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

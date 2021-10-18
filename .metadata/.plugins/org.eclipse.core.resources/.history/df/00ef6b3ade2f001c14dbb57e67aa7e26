@@ -1,0 +1,7 @@
+package com.sist.exam09;
+
+public class Rect {
+	protected double width;
+	protected double height;
+	
+}

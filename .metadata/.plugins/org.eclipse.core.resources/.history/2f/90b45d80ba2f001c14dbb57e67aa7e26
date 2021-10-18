@@ -1,0 +1,11 @@
+package com.sist.exam03;
+
+public class Triangle extends TwoDimShape {
+
+	@Override
+	public double geatArea() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

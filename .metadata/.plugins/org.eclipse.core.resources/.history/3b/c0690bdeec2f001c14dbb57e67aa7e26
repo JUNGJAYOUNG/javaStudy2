@@ -1,0 +1,20 @@
+package com.sist.lab02;
+
+public class Car implements Movable {
+
+
+	@Override
+	public void speedUp(int amount) {
+		System.out.println("속도를"+amount+"만큼 올리세요.");
+	}
+
+	@Override
+	public void speedDown(int amount) {
+		System.out.println("속도를"+amount+"만큼 내리세요.");
+		
+	}
+
+	public void TurnLeft() {
+		System.out.println("좌회전하세요.");
+	}
+}

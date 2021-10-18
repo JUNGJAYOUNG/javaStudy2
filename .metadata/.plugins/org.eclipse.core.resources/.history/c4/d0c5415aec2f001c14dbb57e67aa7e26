@@ -1,0 +1,22 @@
+package com.sist.lab02;
+
+public class Car implements Movable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void speedUp(int amount) {
+		//speed+=amount;
+	}
+
+	@Override
+	public void speedDown(int amount) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+}

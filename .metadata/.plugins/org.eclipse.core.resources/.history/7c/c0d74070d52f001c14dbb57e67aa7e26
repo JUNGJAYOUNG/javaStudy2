@@ -1,0 +1,8 @@
+package com.sist.exam06;
+
+public abstract class Vehicle {
+	int speed;
+	
+	public abstract double getKilosPerLiter();
+
+}

@@ -1,0 +1,9 @@
+package com.sist.lab02;
+
+public interface Movable {
+	public abstract void speedUp(int amount);
+	public abstract void speedDown(int amount);
+	
+	int speed=100;
+	
+}

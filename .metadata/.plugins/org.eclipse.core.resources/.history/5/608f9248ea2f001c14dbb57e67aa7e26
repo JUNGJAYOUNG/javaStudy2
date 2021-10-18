@@ -1,0 +1,5 @@
+package com.sist.lab02;
+
+public interface Movable {
+
+}

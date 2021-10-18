@@ -1,0 +1,12 @@
+package com.sist.lab02;
+
+public interface Movable {
+	public abstract void speedUp(int amount);
+	public abstract void speedDown(int amount);
+	
+	final int speed=100;
+	
+	public static void printSpeed(int speed) {
+		System.out.println("현재속도:"+speed);
+	}
+}
