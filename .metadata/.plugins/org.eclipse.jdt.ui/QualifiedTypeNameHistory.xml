@@ -12,4 +12,10 @@
     <fullyQualifiedTypeName name="com.sist.exam05.ScienceFiction"/>
     <fullyQualifiedTypeName name="com.sist.exam09.Rect"/>
     <fullyQualifiedTypeName name="com.sist.exam09.ColorRect"/>
+    <fullyQualifiedTypeName name="com.sist.exam01.Car"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.security.DrbgParameters.NextBytes"/>
+    <fullyQualifiedTypeName name="com.sist.exam04.Person"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

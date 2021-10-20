@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="2"/>
+	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="0"/>
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-11"/>
-	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo" value="false"/>
+	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo" value="true"/>
 	<section name="completion_proposal_size">
 	</section>
 	<section name="quick_assist_proposal_size">
@@ -47,7 +47,7 @@
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
 		<item key="DIALOG_X_ORIGIN" value="201"/>
-		<item key="DIALOG_Y_ORIGIN" value="-112"/>
+		<item key="DIALOG_Y_ORIGIN" value="-107"/>
 		<item key="DIALOG_WIDTH" value="681"/>
 		<item key="DIALOG_HEIGHT" value="889"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
@@ -63,7 +63,7 @@
 	</section>
 	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
 		<item key="DIALOG_X_ORIGIN" value="161"/>
-		<item key="DIALOG_Y_ORIGIN" value="-248"/>
+		<item key="DIALOG_Y_ORIGIN" value="-107"/>
 		<item key="DIALOG_WIDTH" value="668"/>
 		<item key="DIALOG_HEIGHT" value="869"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
@@ -101,7 +101,7 @@
 	</section>
 	<section name="DialogBounds_AddUnimplementedConstructorsDialog">
 		<item key="DIALOG_X_ORIGIN" value="214"/>
-		<item key="DIALOG_Y_ORIGIN" value="-185"/>
+		<item key="DIALOG_Y_ORIGIN" value="-165"/>
 		<item key="DIALOG_WIDTH" value="668"/>
 		<item key="DIALOG_HEIGHT" value="806"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
@@ -116,12 +116,24 @@
 		<item key="updateTextualMatches" value="false"/>
 		<item key="updateQualifiedNames" value="false"/>
 		<item key="patterns" value="*"/>
+		<item key="renameSubpackages" value="false"/>
 	</section>
 	<section name="DialogBounds_GenerateHashCodeEqualsDialog">
 		<item key="DIALOG_X_ORIGIN" value="292"/>
 		<item key="DIALOG_Y_ORIGIN" value="-221"/>
 		<item key="DIALOG_WIDTH" value="599"/>
 		<item key="DIALOG_HEIGHT" value="763"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;"/>
+	</section>
+	<section name="DialogBounds_SuperInterfaceSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="114"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="425"/>
+		<item key="DIALOG_HEIGHT" value="681"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>
