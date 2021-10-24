@@ -15,5 +15,5 @@ public class StringBufferReplace {
 		
 		data.replace(start,end,newS);
 
-	}
+		}
 }

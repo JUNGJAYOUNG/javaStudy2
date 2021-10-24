@@ -20,13 +20,11 @@ public class MyFrame extends JFrame implements MouseListener {
 	@Override
 	public void mousePressed(MouseEvent e) {
 		// TODO Auto-generated method stub
-		System.out.println("마우스 클릭");
 	}
 
 	@Override
 	public void mouseReleased(MouseEvent e) {
 		// TODO Auto-generated method stub
-		System.out.println("마우스 클릭");	
 	}
 
 	@Override
@@ -38,11 +36,6 @@ public class MyFrame extends JFrame implements MouseListener {
 	@Override
 	public void mouseExited(MouseEvent e) {
 		// TODO Auto-generated method stub
-		
-	}
-	public static void main(String[] args) {
-		new MyFrame();
-		
 		
 	}
 }
