@@ -1,7 +1,0 @@
-package com.sist.exam02;
-
-import com.sist.exam01.Human;
-
-public class Student extends Human {
-
-}

@@ -1,6 +1,0 @@
-package com.sist.exam03;
-
-public abstract class ThreeDimShape extends Shape {
-	protected double volume;
-	public abstract double getVolume();
-}

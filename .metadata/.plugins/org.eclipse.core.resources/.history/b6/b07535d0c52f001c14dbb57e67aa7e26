@@ -1,9 +1,0 @@
-package com.sist.exam05;
-
-public class Book {
-	protected String number;
-	protected String title;
-	protected String author;
-	
-	public abstract int getLateFees();
-}

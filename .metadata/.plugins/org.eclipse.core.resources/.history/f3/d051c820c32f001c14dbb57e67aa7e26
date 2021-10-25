@@ -1,9 +1,0 @@
-package com.sist.exam04;
-
-public class Product {
-	protected String name;
-	protected int price;
-	public int getPrice() {
-		return price;
-	}
-}

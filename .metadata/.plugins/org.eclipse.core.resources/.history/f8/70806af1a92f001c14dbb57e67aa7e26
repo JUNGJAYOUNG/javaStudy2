@@ -1,8 +1,0 @@
-package com.sist.exam01;
-
-public class Human {
-	String name;
-	int age;
-	
-	
-}

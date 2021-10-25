@@ -1,8 +1,8 @@
 package com.sist.game;
 
-public class Card {
-	private String suit;	//카드모양
-	private String number;	//카드숫자
+public class Card {	//하나의 카드는 무늬와 숫자를 가지고 있어야 한다.
+	private String suit;	//무늬
+	private String number;	//숫자
 	
 	public Card(String suit, String number) {
 		super();

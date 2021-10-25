@@ -1,5 +1,0 @@
-package com.sist.exam11;
-
-public class MyMath extends Math {
-
-}
