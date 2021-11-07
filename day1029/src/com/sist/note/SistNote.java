@@ -179,7 +179,7 @@ public class SistNote extends JFrame implements ActionListener{
 				File file = jfc.getSelectedFile();
 				
 				//그 선택한 파일에 텍스트에리어 쓰여진 내용을 출력하기 위한 스트림을 생성합니다.
-				//문자단위의 출력위한 Writer의 후손인 FileWriter를 이용합니ㅏㄷ.
+				//문자단위의 출력위한 Writer의 후손인 FileWriter를 이용합니다.
 				//입출력과 관련된 모든 생성자와 메소드들은 예외를 포함하고 있어요.
 				//그 예외들은 RuntimeException의 후손들이 아니기 때문에 
 				//사용자가 반드시 예외처리를 해야합니다.
